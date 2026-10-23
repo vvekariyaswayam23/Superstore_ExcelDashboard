@@ -12,27 +12,27 @@ A beginner-friendly Excel project that explores Superstore sales data using clea
 ## 🖼️ Screenshots
 
 ### 1. Dashboard Overview
-<img width="1600" height="900" alt="01-dashboard-overview" src="https://github.com/user-attachments/assets/e0e96528-a17a-488a-8942-7e9884441cd3" />
+<img width="1600" height="900" alt="Dashboard-overview" src="https://github.com/user-attachments/assets/32c7a672-cba4-4020-9d19-0f11f5594f74" />
+
 
 
 
 ### 2. Summary Worksheet
-<img width="1600" height="900" alt="02-summary-worksheet" src="https://github.com/user-attachments/assets/4f46280d-3868-4945-855d-d74762e06cf2" />
+<img width="1414" height="1594" alt="actual-summary" src="https://github.com/user-attachments/assets/cb54c882-274f-484c-a6fa-f8e96dc9038e" />
 
 
 
-### 3. Sales by Category
-<img width="1600" height="900" alt="03-category-sales" src="https://github.com/user-attachments/assets/d1f8f4bb-6b6e-490d-b892-01fd0b8fc581" />
+
+### 3. Cleaned Data
+<img width="1244" height="758" alt="actual-cleaned-data" src="https://github.com/user-attachments/assets/4293bc75-137f-496d-bcee-abd11f0e3e69" />
 
 
 
-### 4. Sales by Region
-<img width="1600" height="900" alt="04-region-sales" src="https://github.com/user-attachments/assets/f0cec7be-6909-4e22-a5b3-d7c529e6d2d6" />
+
+### 4. Raw Data
+<img width="1244" height="758" alt="actual-raw-data" src="https://github.com/user-attachments/assets/e11d13a3-090e-4daa-96f8-75bd830c5036" />
 
 
-
-### 5. Dataset Preview
-<img width="1600" height="900" alt="05-data-preview" src="https://github.com/user-attachments/assets/337c1d8b-da06-4746-9494-8227d7595ba6" />
 
 
 
