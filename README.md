@@ -12,19 +12,29 @@ A beginner-friendly Excel project that explores Superstore sales data using clea
 ## 🖼️ Screenshots
 
 ### 1. Dashboard Overview
-![Dashboard Overview](screenshots/01-dashboard-overview.png)
+<img width="1600" height="900" alt="01-dashboard-overview" src="https://github.com/user-attachments/assets/e0e96528-a17a-488a-8942-7e9884441cd3" />
+
+
 
 ### 2. Summary Worksheet
-![Summary Worksheet](screenshots/02-summary-worksheet.png)
+<img width="1600" height="900" alt="02-summary-worksheet" src="https://github.com/user-attachments/assets/4f46280d-3868-4945-855d-d74762e06cf2" />
+
+
 
 ### 3. Sales by Category
-![Sales by Category](screenshots/03-category-sales.png)
+<img width="1600" height="900" alt="03-category-sales" src="https://github.com/user-attachments/assets/d1f8f4bb-6b6e-490d-b892-01fd0b8fc581" />
+
+
 
 ### 4. Sales by Region
-![Sales by Region](screenshots/04-region-sales.png)
+<img width="1600" height="900" alt="04-region-sales" src="https://github.com/user-attachments/assets/f0cec7be-6909-4e22-a5b3-d7c529e6d2d6" />
+
+
 
 ### 5. Dataset Preview
-![Dataset Preview](screenshots/05-data-preview.png)
+<img width="1600" height="900" alt="05-data-preview" src="https://github.com/user-attachments/assets/337c1d8b-da06-4746-9494-8227d7595ba6" />
+
+
 
 ## 📌 Key Figures
 - **Total Sales:** $2,261,536.78
